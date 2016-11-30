@@ -1,0 +1,47 @@
+.right-list{
+	width: 675px;
+	height: 340px;
+	margin: 10px auto 0;
+	margin-bottom: 40px;
+}
+.right-list ul li{
+	width: 675px;
+	height: 34px;
+	line-height: 34px;
+	background-image: url(../img/dotted.png);
+	background-position: bottom;
+	background-repeat: repeat-x;
+}
+.list-name{
+	background-image: url(../img/dot-bg.png);
+	background-repeat: no-repeat;
+	background-position: 0% 50%;
+	padding-left: 10px;
+}
+.list-source{
+	margin-right: 20px;
+}
+
+
+/*查看更多按钮*/
+.more-btn{
+	width: 710px;
+	height: 40px;
+	background-color: red;
+	margin: 90px auto 0;
+	background-image: url(../img/btn-bg.png);
+	background-color: #fcfcfc;
+	background-repeat: repeat-x;
+}
+.more-btn input{
+	width: 400px;
+	height: 40px;
+	background-color: #f0f0f0;
+	border: none;
+	margin-left: 165px;
+	color: #666666;
+	font-size: 14px;
+}
+.more-btn input:hover{
+    box-shadow: 2px 2px 2px #e4e4e4;			
+}

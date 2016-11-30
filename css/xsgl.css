@@ -1,0 +1,89 @@
+/*主体右侧部分*/
+.content-right{
+	width: 710px;
+	height: 900px;
+	padding: 30px 20px 0 0;
+}
+.right-head{
+	width: 690px;
+	height: 40px;
+	line-height: 40px;
+	padding-left:20px ;
+	background-color: #f3f3f3;
+}
+/*主体右侧列表部分*/
+.right-list >ul >li{
+	width: 685px;
+	height: 100px;
+	padding: 15px 10px 10px 15px;
+	background-image: url(../img/dotted.png);
+	background-position: bottom;
+	background-repeat: repeat-x;
+}
+.artical{
+	width: 685px;
+	height: 50px;
+	color: #434242;
+    margin-top: 15px;
+    line-height: 20px;
+}
+.icon{
+	width: 685px;
+	height: 20px;
+}
+/*我参与的，我的评论红色字体*/
+.icon-red{
+	color: #ff0000;
+}
+.icon-left{
+	width: 300px;
+	height: 20px;
+	font-size: 14px;
+	font-family: arial;
+}
+.icon-left ul li{
+	width: 70px;
+	height: 20px;
+	line-height: 20px;
+}
+.icon-left-number{
+   margin:0 20px 0 5px
+}
+.icon-right{
+	width: 140px;
+	height: 20px;
+}
+.icon-right ul li{
+	width: 60px;
+	height: 20px;
+	line-height: 20px;
+}
+.icon-right-pic{
+	margin-right: 5px;
+	color: #6592f9;
+	text-decoration: underline;
+}
+
+/*查看更多按钮*/
+.more-btn{
+	width: 710px;
+	height: 40px;
+	background-color: red;
+	margin: 60px auto 0;
+	background-image: url(../img/btn-bg.png);
+	background-color: #fcfcfc;
+	background-repeat: no-repeat;
+	background-repeat-x: initial;
+}
+.more-btn input{
+	width: 400px;
+	height: 40px;
+	background-color: #f0f0f0;
+	border: none;
+	margin-left: 165px;
+	color: #666666;
+	font-size: 14px;
+}
+.more-btn input:hover{
+    box-shadow: 2px 2px 2px #e4e4e4;			
+}

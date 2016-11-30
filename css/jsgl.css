@@ -1,0 +1,41 @@
+.right-choice{
+	height:100px;
+}
+.right-choice{
+	width: 690px;
+	height: 50px;
+	padding-left: 20px;
+	background-repeat: repeat-x;
+	background-position: bottom;
+}
+.book-all{
+	height: 50px;
+	line-height: 50px;
+}
+.book-part{
+	width: 400px;
+	height: 30px;
+	margin-top: 10px;
+}
+.book-part ul li{
+	width: 78px;
+	height: 28px;
+	margin-right: 20px;
+	border: 1px solid #acc0cc;
+	line-height: 30px;
+	text-align: center;
+}
+.book-part ul li:hover{
+	color: #fff;
+	background-color: #80ccfc;
+}
+.dotted{
+	padding-bottom: 10px;
+	background-image: url(../img/dotted.png);
+	background-repeat: repeat-x;
+	background-position: bottom;
+}
+.blue{
+	background-color: #80ccfc;
+	color: #fff;
+}

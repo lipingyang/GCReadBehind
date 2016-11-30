@@ -1,0 +1,98 @@
+.right-choice{
+	width: 690px;
+	height: 60px;
+	padding-left: 20px;
+	background-image: url(../img/dotted.png);
+	background-repeat: repeat-x;
+	background-position: bottom;
+}
+.book-all{
+	line-height: 60px;
+}
+.book-part{
+	width: 400px;
+	height: 30px;
+	margin-top: 15px;
+}
+.book-part ul li{
+	width: 78px;
+	height: 28px;
+	margin-right: 20px;
+	border: 1px solid #acc0cc;
+	line-height: 30px;
+	text-align: center;
+}
+.book-part ul li:hover{
+	color: #fff;
+	background-color: #80ccfc;
+}
+.book-edit{
+	width: 180px;
+	height: 30px;
+	margin-top:15px ;
+}
+.book-edit div{
+	height: 30px;
+	line-height: 30px;
+}
+.edit-word{
+	margin-left: 5px;
+	margin-right: 20px;
+	text-decoration: underline;
+	
+}
+.edit-word a{
+	color: #6592f9;
+}
+/*同步图标对齐*/
+.same{
+	margin-top: 2.5px;
+}
+/*选择变蓝色之前默认蓝色*/
+.blue{
+	background-color: #80ccfc;
+	color: #fff;
+}
+
+/*主体右侧列表*/
+.right-list{
+	width: 680px;
+	height: 700px;
+	margin: 20px auto 0;
+	display: table;
+}
+.right-list table{
+	border-collapse:collapse
+}
+.right-list td{
+	height: 40px;
+	text-align: center;
+	word-break: break-all;
+}
+.list-blue{
+	color: #fff;
+	background-color: #80ccfc;
+}
+.listbg{
+	background-image: url(../img/list-bg.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+}
+.list-gray{
+	background-color: #fafafa;
+}
+tr{
+	background: url(../img/dotted.png) bottom repeat-x;
+}
+.list-one{
+	width: 140px;
+}
+.list-two{
+	width: 150px;
+}
+.list-three{
+	width: 130px;
+}
+.list-four{
+	width: 260px;
+}

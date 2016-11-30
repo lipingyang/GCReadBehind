@@ -1,0 +1,101 @@
+.right-choice{
+	width: 690px;
+	height: 60px;
+	padding-left: 20px;
+	background-image: url(../img/dotted.png);
+	background-repeat: repeat-x;
+	background-position: bottom;
+}
+.book-all{
+	line-height: 60px;
+}
+.book-part{
+	width: 400px;
+	height: 30px;
+	margin-top: 15px;
+}
+.book-part ul li{
+	width: 78px;
+	height: 28px;
+	margin-right: 20px;
+	border: 1px solid #acc0cc;
+	line-height: 30px;
+	text-align: center;
+}
+.book-part ul li:hover{
+	color: #fff;
+	background-color: #80ccfc;
+}
+.book-edit{
+	width: 180px;
+	height: 30px;
+	margin-top:15px ;
+}
+.book-edit div{
+	height: 30px;
+	line-height: 30px;
+}
+.edit-word{
+	margin-left: 5px;
+	margin-right: 20px;
+	text-decoration: underline;
+	
+}
+.edit-word a{
+	color: #6592f9;
+}
+/*同步图标对齐*/
+.same{
+	margin-top: 2.5px;
+}
+/*主体右侧列表*/
+.right-list{
+	width: 680px;
+	height: 700px;
+	margin: 20px auto 0;
+}
+.right-list >ul >li{
+	width: 680px;
+	height: 45px;
+	line-height: 45px;
+}
+.list-title{
+	background-image: url(../img/jsgl-bg.png);
+	color: #fff;
+}
+.list-details{
+	background-image: url(../img/dotted.png);
+	background-position: bottom;
+	background-repeat: repeat-x;
+}
+/*表格*/
+.right-list div{
+	height: 45px;
+	text-align: center;
+	font-size: 14px;
+}
+.form-first{
+	width: 125px;
+}
+.form-second{
+	width: 130px;
+}
+.form-third{
+	width: 100px;
+}
+.form-fourth{
+	width: 100px;
+}
+.form-fifth{
+	width: 120px;
+}
+.form-six{
+	width: 105px;
+}
+.gray{
+	background-color: #fafafa;
+}
+.blue{
+	background-color: #80ccfc;
+	color: #fff;
+}
